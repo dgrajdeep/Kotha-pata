@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server/server.js"
+    "start": "node server/server.js",
+    "build": "npm install"
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
